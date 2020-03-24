@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sse" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/sse/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/sse/lib" />
+    </SOURCES>
+  </library>
+</component>
